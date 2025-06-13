@@ -4,3 +4,6 @@
 [submodule "Lab2"]
 	path = Lab2
 	url = https://github.com/marabella070/CSharpLabs-Rethink-.Lab2
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/marabella070/CSharpLabs-Rethink-.Lab3
